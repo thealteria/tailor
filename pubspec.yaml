@@ -1,0 +1,19 @@
+name: tailor
+description: Widget that gives you the size of the widget in runtime.
+version: 1.0.0
+homepage: https://github.com/thealteria/tailor.git
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
