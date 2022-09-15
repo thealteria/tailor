@@ -142,7 +142,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.0"
-  tailor:
+  tailor_flutter:
     dependency: "direct main"
     description:
       path: ".."

@@ -1,4 +1,4 @@
-name: tailor
+name: tailor_flutter
 description: Widget that gives you the size of the widget in runtime.
 version: 1.0.0
 homepage: https://github.com/thealteria/tailor.git
