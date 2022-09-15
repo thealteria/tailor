@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tailor/tailor.dart';
+import 'package:tailor_flutter/tailor_flutter.dart';
 
 void main() {
   runApp(const MyApp());
